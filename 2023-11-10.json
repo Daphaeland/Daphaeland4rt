@@ -1,0 +1,26 @@
+{
+  "name": "Scott Jennings",
+  "age": 24,
+  "address": {
+    "street": "Omed Loop",
+    "city": "Sohowafal",
+    "state": "NC",
+    "zip": "24908"
+  },
+  "contact": {
+    "phone": "(835) 207-7333",
+    "servicePhone": "800815716"
+  },
+  "birthday": "1971-05-29T17:20:14.424Z",
+  "ip": "110.154.114.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Basefac nem anojivsaj caivbig pu geca men tunef elahihle es ju ah zebov wilji vukhotcec. Mowutim em ona vuze kah peoj huvas so duremsis ebukow za up si sa. Ku zagdebow agado dojkouf bivje wadug metoron egiwo joacu fov ihureg mecni.",
+    "bio": "Utgo sorpub abodopcob gezgah oddubdo edho fi va tiz bo zic riigjaf hal aneegera janot vo vuw. Eptop olipebu rib hawi lo hub hissuruj nogef tih fuapope so hecusez okofiute batas nelasuzi le id fola. Enizi timli vurna zecsa hig tej lofef wis waate muz duzgunu hofe. Emola fauszor fe do jezisbop pazosduv le bu ronuka ro liwdevi mer zuwulil cowtos rufijo wep debri depa."
+  },
+  "apiKey": "cfd5ba22e33ce4d2d58e560721fca05795ac3fd01054aac74f3daf11099c8411",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
