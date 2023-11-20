@@ -1,0 +1,26 @@
+{
+  "name": "Albert Robbins",
+  "age": 20,
+  "address": {
+    "street": "Loup Place",
+    "city": "Tagwusu",
+    "state": "IL",
+    "zip": "28246"
+  },
+  "contact": {
+    "phone": "(925) 489-2015",
+    "servicePhone": "800481663"
+  },
+  "birthday": "1999-05-24T21:40:40.321Z",
+  "ip": "83.222.79.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Jajsup luronfep dag vifa wezpi ewsez rece weew kugcubli gocmuhi rodgin dik esnuczut onkiek. Era nedgu tolu lawuj rat bimleab uj mosjuvvo vinebiw jutsita ejugriz weh mobalci fiuwsin. Hijnullo hisiz ijeewa nerrap goca rut es etopa kij ag mivraaf uticreb. Kadalena pad hidmiv ad rucgu ireto vacguvhu zulte uho rob pumjed pi mopjotbim. Bu zekot ri ki cebtozvo se huwirfi icu toca ca sa od wuhah. Lal ri ma ha heczanig dufregiw san bi ko gekuh nu hiowza ujtop fo lizelwis. Daz atate iziofeow kaatfok zup ak pocva hikufuh lev heez fognic bujez azetikod vetava hacuot.",
+    "bio": "Nejoksi afofude kipduv nej me ce vuriut he foduh cis jil comfaj vupen nerdekam gokof odutifu. Zeb sohuk uhva sem uwekdo emoiho nuw gobiwe tawbojcut no pupunaj se ce geccuzzo kakku gomiznoz lajjovi papuj. Gazzoj vag zon vodofvan epo tabjebsid vupwavvi nafizval jajdesuh li uvohot puunrip iku ivodu bih. Vajcel goparsos ke bowuijo ohnokuz baow il wu refuwape revukfaj mok jaedo. Cuodewu pi tunil wiih luv pifusica asitut ili ijiuce ukep was mako mo pijilbac. Jah vaw feumto eto wa kiozu kagfigjab pu hieh apuahopu nulsik ana hewvuiri zid akzupih pofpu nir tiljok."
+  },
+  "apiKey": "71e86d7d6c32b00575cf6f8f99d5a84a09e7f8e0b8e86dd136b9b1151b31e823",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
