@@ -1,0 +1,26 @@
+{
+  "name": "Sally Guerrero",
+  "age": 29,
+  "address": {
+    "street": "Geju Way",
+    "city": "Rodsamo",
+    "state": "AZ",
+    "zip": "50626"
+  },
+  "contact": {
+    "phone": "(478) 649-5475",
+    "servicePhone": "800546977"
+  },
+  "birthday": "1976-08-13T11:53:50.009Z",
+  "ip": "234.53.181.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Diz iri uwec ew uba win meaksu ewotut jidokbeh godsa bo kuvfiheb ewuuzi uzagi lebcowgi pocireas uput. La cabiwpu mora ag te vaze kawabud bujnucu bis do ezu dewusdip. Up sectekehi behkaga zep uracoju ke bo cuczozo zawlid guhillef kokziros bev zaterpeh sizep.",
+    "bio": "Kabumo hemwurfa not jijjup tub civo retgal pihefogu liza nevkan az ini. Tebegwon acalupwu ujune govahhe ro rafwapu gubze uvtag vo owuwo mesgaupo vagore burjoj iz odu vigamol. Azozakija joza pin modemaj gelepo wicnic zev ogefawaf gizup fevasug advanwu sifa riokeve suw mecnoup ror anu. Sillas ehuca owinoppaz kigzeeci jovak vog ar zitujwok te tiwnuw nizbefzek ugvewus jabitik idpo linlebji."
+  },
+  "apiKey": "3e5fd41b1e85cc1b65b9d238b8ab950f1b66e8fd37b08c380ffa850b28f7011e",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
