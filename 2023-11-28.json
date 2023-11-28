@@ -1,0 +1,26 @@
+{
+  "name": "Jane Benson",
+  "age": 19,
+  "address": {
+    "street": "Tawi Street",
+    "city": "Rudujsup",
+    "state": "NY",
+    "zip": "90060"
+  },
+  "contact": {
+    "phone": "(568) 297-4920",
+    "servicePhone": "800881431"
+  },
+  "birthday": "1986-11-16T19:20:53.097Z",
+  "ip": "62.131.241.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Nis rac fap fecofa de dulra le gadvo ad iz dubjar rifzir mefhaz gukehla er. Lamrullu wa omu rul ladma saehego hejim dalalaw we selaflip lesumdib lin zakpimwov toco ahzafkiv. Puv sar pahudob go ewozere je nutewno gaghohig favuh rob vi epgefac fuvdijer ap.",
+    "bio": "Azupeshug ozanoar murugo tuziwouv ucujahof caallo papnilu ma piz on nagkibsup to tuw jitmimwa eb radewi bovpuzet tozah. Limaza hodalkuk jowhedlu ecje elgil vuzid kurcidtom wazbu wez tuletozez pehat er kimanap. Ga fotgak ebalhud hoj cepfesna juidopu gizhengi dibikiz rikseze torohnaf wa ekzezge id haotne. Ti hoccakva fuswaztu lac apmemsi zabpo zek nukalug goki valpu rousfuw mujnecwif az jo lu pawu. Fasulli ogu eptaba li gimse socanu zenga up ker bija unjavwof erfam id hugak. Emuve arhiftuw bah ralcimuno labuk kigow nofadoep vivvuipi gogdepeku po fale sepimfa fef nirju tewdabfow bakfa bodecus pujva."
+  },
+  "apiKey": "44c0c33320843f32bfd06cded4406a7a7c5df931033f3bc3294dc98f79bd8a36",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
