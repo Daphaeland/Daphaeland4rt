@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Fowler",
+  "age": 25,
+  "address": {
+    "street": "Nisvu Trail",
+    "city": "Kolpiri",
+    "state": "NE",
+    "zip": "34269"
+  },
+  "contact": {
+    "phone": "(206) 703-7221",
+    "servicePhone": "800535189"
+  },
+  "birthday": "2005-12-07T01:44:48.708Z",
+  "ip": "83.43.194.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Deb nuid abeozoebe wod as omimol iro gifezer uw el gew tohte or kar sudub no gugzaggu wozniz. Nafocge vetbut kifiahu teov fe konof lunooh ogo viwfo si vuw to. Suwrej fi fol bo jude olliahi vokere ivvopguf eceki ju kofvipjep anoco diofa.",
+    "bio": "Bees ned avulo zino zieru ra humecuces upari ol wearuaf livor emirfev lehnuiv. Kez zega iju kupema fa pibduz kez beuhease cigme mubrak hik suc goj ivceb lijovi ifzuzzem. Julpemrav hefe ha wuwufuh hibag hiswis regazhal paguh ecwonif oj biw iwouge focamvit adu cojniej te kupil rozu. Bajlo pardomsu ego jes lottacfe orpopi awitwa ul gofuge medhu jan socivoc sujpolu tijevcic sag nupkom."
+  },
+  "apiKey": "917e1e07872bc7a10351a17e8d661a505e7c279c7129e7e092417500f37cdbdf",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
