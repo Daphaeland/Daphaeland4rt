@@ -1,0 +1,26 @@
+{
+  "name": "James Ross",
+  "age": 48,
+  "address": {
+    "street": "Nuza Path",
+    "city": "Ovahitem",
+    "state": "WI",
+    "zip": "06636"
+  },
+  "contact": {
+    "phone": "(768) 549-5475",
+    "servicePhone": "800485715"
+  },
+  "birthday": "2004-07-04T21:32:04.660Z",
+  "ip": "169.11.2.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Jinifrul hedcujun gesid volelig upo zowepho wim hozlel fevi mizti zukga wukabzur kumhazu jorkomavu midme kitigev vebnava rijopa. Moz su os cutofo porem lij uzozejo coc vazjoaka cup pem jota. Amowe woh cap at mohgo pokliz odibefu momzucmiw iveweori nec lowageruc kudwim momeb tuhfi jupah. Tike cuzu fa copvotviv libevu ropahwi ofo fa basug kos zom vujvec tuz viot. Oza ta eg sochuol ro lackuuma vaof azijifgac iwhos advohar ahmob lup ocamibro zolpoviv oz.",
+    "bio": "Ju juw fe akomi renesgup rezid zof kemavah bih itekuhop gu ibjoip. Sichuni mawvef igwisu saekadaw uhuneb cegpager ne luugo ov ad ga ko oc zib nujikjoc ril ode. Iluvirjoh homonkot kad ehnomuh du se ussis fazi veg bojomug pafeci eb rako nipef ubjoziw fakiwzos. Iru wupukzo attew if vegi cegugdu viwile seguhi roweli ru jo jepo judki apji."
+  },
+  "apiKey": "0dbee4d9538e8d1a413916d5c02ea909c76af15f3d735692db17ac9c51781395",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
