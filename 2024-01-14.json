@@ -1,0 +1,26 @@
+{
+  "name": "Luis Kelly",
+  "age": 43,
+  "address": {
+    "street": "Famte Street",
+    "city": "Luzurbud",
+    "state": "DC",
+    "zip": "39645"
+  },
+  "contact": {
+    "phone": "(786) 362-5240",
+    "servicePhone": "800358372"
+  },
+  "birthday": "1982-08-17T17:13:51.344Z",
+  "ip": "34.82.116.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu obucih losegu ubi izsejag bowowfo tezziskeh ezot henueg petibkin buh hu. Cuatu ufseno elbahuz kup itu dumomnu ajugune kuhozko mimodip gawiva junojaw mul izrocdej cidejza. Fo kiju ecakti feakedaj unuutda pogsinget it fiagceg ajonefkaw atumkak mawetir socuj bij cewaf iwo osehwes. Acafufef ho bidgo wef tianiat gu ud vispi mor leregu kapga nihuga onzut.",
+    "bio": "Citaro ela jot ov afu kor vavlohto kecvu lieha bucba madcu tic aj ijaemite cof. Obfehzoc mevda cifukin mi zocca ubdeffi vujgimuz mo pigla lometoib fet lewafi bu obosep. Uko rulife niflip vavlob pagfof otevip miwis jetrod dihcezo usa pij ku lohosel zaw pal."
+  },
+  "apiKey": "fd2fd9902f6f329f43e6ceaa23e0606a5b0f205c47330cbf66c41b002314b9c1",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
