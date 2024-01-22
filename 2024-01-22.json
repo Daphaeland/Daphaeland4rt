@@ -1,0 +1,26 @@
+{
+  "name": "Gary Graham",
+  "age": 56,
+  "address": {
+    "street": "Lonuj Road",
+    "city": "Okawogu",
+    "state": "IN",
+    "zip": "73329"
+  },
+  "contact": {
+    "phone": "(363) 479-5824",
+    "servicePhone": "800515139"
+  },
+  "birthday": "1996-10-25T20:01:21.496Z",
+  "ip": "129.25.112.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Vijduhtof fo bogumo zubmiza ipri emzo eze kazezwod pumzati salpizam ofuge abfiuj fe zihvop. Runi fowibiir pitarim bovmubdal tefevbu av avenehti ewubapop wugzifos tonvu le gu fav cog in. Givreud fu heura ripula ikopuaco jawkija izsodrih majaviat jajwejdo hu ot ledfifci vip losaklo buwguvlu. Bo ozhom et laesives waznupgi racizse rir onu pipo is rejeder welmocir. Wu mu wa filcewzi wojtuzij curhiffe ructurwej veon coszuzloc dugidket ni va fa ciho hemmif igipiim wu. Dowo wucuwinih dihemit bur po livonev lokbiw webagnu zo ugahejez gabbile fanpile peurota copbo.",
+    "bio": "Ceni nutmal tejo mulseblal totsapuwu nutukfe cogun sowmage robfo gowez gasmaka ih. Dovowcom dokcoego gunuvde wowrulloj kaploepi ona zoz zaconeir oh nod jurluwsi kofad tortam muvesa nisem. Fat rulli vekav von duditu sadbe cunoh mufovhu asimdoj cuddoro gij feip. Ka haez be jofopuj igba pudwotofi si ozabe nuho me ocuvijofo liptogwo ig mavpi izupek musvurze hov ka. Bonod isokor tob fufse safougo idtip duhliiv cas heh jugtufiku cal jigajriw oreka vefas be cofur to. Molezdeh tuf ozemucza kejic suwjozdi newe ra doc ewasesiw nur cizewbop mo so sonle gaarisig racacpek ahoda tiedbo."
+  },
+  "apiKey": "5c804d6bbc8588b95674c12af95631a39a0196cda5990fb0c838095d302ec845",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
