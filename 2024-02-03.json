@@ -1,0 +1,26 @@
+{
+  "name": "Phoebe James",
+  "age": 40,
+  "address": {
+    "street": "Getki Turnpike",
+    "city": "Sibase",
+    "state": "NV",
+    "zip": "54739"
+  },
+  "contact": {
+    "phone": "(818) 273-8309",
+    "servicePhone": "800832886"
+  },
+  "birthday": "1986-05-18T23:30:28.862Z",
+  "ip": "45.226.253.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Lof mifpe epmud jag fanoguv podmiw foac zafcej tajaz da in kinev mumbob biva. Fo mojzug nuhho ducrazdut jumok cuw ufvebzot lazof pej uhegifo uwi luwliaz. Heseuk pogurjud fi wazufuc ag garotu itnotuh rogateg gawfivzu uk le iranavomo gepomja giib dovhi rifresnez tegujuho.",
+    "bio": "Jolu hizebub riad kevumnuk mi sivu miwgefgu ma lep ducobe nerucub najlos vuhziefa ufelu evmul gugveulo vupojlun tekpolwaj. Mah fesla ejnem rud epjob hi zetkid irijeh uz utho zalhatu pacfi nov. Woukora vop vajubrub geniz pajri bi likapga pife halpi gu ibojima lut. Dircik cab to ofubuf bu bigu gole lih tafdada gogocuf otkatav nekjel gobi."
+  },
+  "apiKey": "9dfe123167822a046b6d5987a54e72e69d02e0b2b7a38ca5fbc2a086e4cb4252",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
