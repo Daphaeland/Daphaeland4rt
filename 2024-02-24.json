@@ -1,0 +1,26 @@
+{
+  "name": "Blake Jennings",
+  "age": 19,
+  "address": {
+    "street": "Etekoc Terrace",
+    "city": "Wussugit",
+    "state": "FL",
+    "zip": "18058"
+  },
+  "contact": {
+    "phone": "(424) 831-3863",
+    "servicePhone": "800955422"
+  },
+  "birthday": "1995-10-01T07:51:33.185Z",
+  "ip": "20.96.148.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuluwe famlomif ziz keceulu puruzzi saw borpiv wumezig rogov jerahwid maswi lim wokbicagi lu bur hekidiime seraffe. Ok uce ke tig ilpah uj hagje leunese kubu la aketuja tuj kud nuz zuzgal gaacve ekoraga. Taufa tapuk rijol gur lu kifobci isi do vazaf paranozi hu kawbedsi tepip fifnuv gal wa.",
+    "bio": "Gum bujim luwu ijeciru obu urku bugohja hob bog goloh jezmoho goga vutibnur akru. Cigmit zi et lozgoz vicoscok tewalwef lehad aj zegemtir zoriw nupitke togo ka. Bew luhortek ulebu icoji tosju dowpisib pirad bij pelicave ezoujooji piogu keim. Vobpi mogsu abevu per zec vadomli bebnid aso iciwot cid cavkiga poneh iluodutid."
+  },
+  "apiKey": "58d410ebf06e539630f9f4fad5f9154489604d3b643dd63e0a97826ade9d5c45",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
