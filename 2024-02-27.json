@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Beck",
+  "age": 18,
+  "address": {
+    "street": "Cocvi Court",
+    "city": "Citcicca",
+    "state": "ID",
+    "zip": "68172"
+  },
+  "contact": {
+    "phone": "(823) 673-4041",
+    "servicePhone": "800112829"
+  },
+  "birthday": "1998-11-29T08:21:55.860Z",
+  "ip": "147.234.9.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Anage da oteevi vesdiin tajizzic ladhoko lowhivef bewabu leke zajjul ru home ko juhogfan zil hoz in. Cibkat tiinedij fo hivuwu dab racije dug gusizihu nabge lezupik omji pa cevet. Uzgutlu dif nigpuefa ri zef papa hihapo jecav su edap luuk vu rudo rebzazaz raedi raf ju. Nuv ijidin ana wojoelu sebo devit wazepuz ha cuw zocarhi tojge sotivi ogutun ba mewun efihpen miv di. Bupe babca oc cevlo agukaji puzte bucli luhvemwi omo hakur so nioruze vuaj beculdoj lur den. Kurwac jepup huezi nug tet goem lolfu uzamol wuserraj ze zin az tizu dokpeb ok. Do megouta vedvusoja ha no cetrivhel jeli wig poc fa ir girwofji.",
+    "bio": "Vez ju se mago ma tegiso lodel wuvivvuh inhed re fosec gem kaedepab vewizo epkad. He ez digejsit wes igbawek pac upfudta vinodoc ef winsobo luswa va liki za ugkek. Kunih lanmekme iphan vudanze bu imo nihuw bawi budiwo ogkagij wi na ru ul. Dom wamano ne izbahzop namev cuivzun kidiw nok jubje lul pufifo aveal sujhamew bompan. Biwus tozgerfak tuglumez emki dukrithaf isauce busin cefvek esef ibalideb oginaaz tij. Lika gorzo izoteini pofoc umirovpa ceugu gisakuki lutpif wektihvov bobi eti tecip bokop ziibo mis lomafif huf."
+  },
+  "apiKey": "7761a41e3c10cc70b7f13b06c0db77f6bd92f4733ad610eb9095b9ea29746c35",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
