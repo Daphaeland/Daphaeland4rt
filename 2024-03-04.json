@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Adkins",
+  "age": 61,
+  "address": {
+    "street": "Visef Center",
+    "city": "Rumgehi",
+    "state": "LA",
+    "zip": "92500"
+  },
+  "contact": {
+    "phone": "(765) 423-6952",
+    "servicePhone": "800375186"
+  },
+  "birthday": "1959-07-18T22:51:50.808Z",
+  "ip": "75.14.218.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Na nebuz veavizu ado gudganak muj zo zisiigi fuda te ca zitalzi ojfopoc vuipomo bo. Kuzel cemvuf hag bagaod ugsi ivofep uporercuv fauj nedpaeje re datub atnag vozufar itute kulbuvo wopsep. Varwuj ciuwcuj jadap tisan pu guwor wu uma wiffimwu jeb got dur fummubde pimool ag ih atwaso.",
+    "bio": "Kipucud owukiphoz zavwo rulpaze renace seg suc hivtac mocoh alesatib gare fibfel rob wusohu gughurse evu. Eskecsap tejijnu oz kicjiw tascud pakfut dombe fi nohlok odcu okivof amzif akisagran jopugfav pezevot fazmopat busiiva. Peapu samac vudisa medefmih pufga sazoliko vubahso izugurum huocoze uv pafen ohekiktid liz oz tiha uceahi."
+  },
+  "apiKey": "d6855e3941eea1f9071d4ccdefbd5faa84d6867e1cc78472472b977b6cb55015",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
