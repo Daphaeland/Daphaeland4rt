@@ -1,0 +1,26 @@
+{
+  "name": "Susan Harrington",
+  "age": 42,
+  "address": {
+    "street": "Facfu Pass",
+    "city": "Daifwa",
+    "state": "AK",
+    "zip": "61753"
+  },
+  "contact": {
+    "phone": "(984) 588-9675",
+    "servicePhone": "800757794"
+  },
+  "birthday": "1966-08-30T20:28:59.954Z",
+  "ip": "99.207.194.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Soztan ugho favjeib toraref ka weragu pil za izoiji ko avuaze rimab. Edlirad enihuop oj pokafva mi hid won vubec raef sop lo jejitugan lutiggi kagsiwu betceh docjega ki. Ihaehoco kunhirkas keva supevho sogo cuparut jurfah ahi hu nisepjo webrok dedci pem re gig.",
+    "bio": "Je tat sesva ciiwtoh hemwapvi wev zok cimeb ase is fekraji immo vunos vafu uko el zismupme duaditeb. Edumef ker labeuwi lojri ca ve azuno gar virecjo ci dup rer mat cozujuj cajip jab hecrubon. Lavenhic botufjac ra gij tose kevo def naib orci dofveci ninaca ka tocpo owifer facih tallim gucaonu kufoh."
+  },
+  "apiKey": "3c7669fb0e28bf4b1c1404dd5f59b3f6312fe3e454ac9b866b273506a74381ef",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
