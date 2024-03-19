@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Greer",
+  "age": 36,
+  "address": {
+    "street": "Azevo Path",
+    "city": "Varija",
+    "state": "TX",
+    "zip": "39852"
+  },
+  "contact": {
+    "phone": "(666) 521-1796",
+    "servicePhone": "800632113"
+  },
+  "birthday": "1970-02-04T20:26:19.728Z",
+  "ip": "26.106.149.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Hikziffo ikvediz mot hegu ibwo pem ucadi linpu dow hazsamco kut va dumuhu bifoz wu. Uneluoh keb digco jacdeder bacuvmu lujim zegikci mibongu bi etuago abmozu pujup. Aleli gode mijolzu ikajiiv zemude welled neuvliz foaboaju sewel movzohki ed efjuk warhih velbog rivrum pojwod ade pogajez. Kefomo guera wij ejwufve animuv riuh inifuru momeges geg zu daw cobbe. Paigaidi godi pepabbo peiziji ta adimorvut cora fasvo kifiskof kis sakzo wopa.",
+    "bio": "Zudo jis jiwcawef arje it ri vibizo rok pi gizemawa supo ev kagel toego kanok. Puwac lenfup epahovut ropgeju befijit fuki opta pegra bof ne fihfo risoguel for avmu uwa ohebemge. Lag dartu zibze co bif ro nafu huw dolukda gudele re lilherot zo mep zeleczes so. Guho pofeun za sassin vifwuwha wujwijmam tosuspal pokap buv fe mama hawoog fi pozov. Wef havhiuke huemuj gik fopga cu panavwe hojito rof ife ifasel ovate."
+  },
+  "apiKey": "2365c36f3046ef83dd986d50f0cdaf5a0d29b187db64bd58bb5eb59a4e165341",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
