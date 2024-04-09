@@ -1,0 +1,26 @@
+{
+  "name": "Mike Harper",
+  "age": 32,
+  "address": {
+    "street": "Ciji River",
+    "city": "Nincako",
+    "state": "MN",
+    "zip": "04351"
+  },
+  "contact": {
+    "phone": "(537) 753-5059",
+    "servicePhone": "800559988"
+  },
+  "birthday": "1976-03-22T07:04:35.126Z",
+  "ip": "102.223.0.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Deztevus heprek nobiv saghiomo hu be ce pesoziehi ahihe ga dewguhho vihupcip ira kajzalo. Jab izaveci wuj pagogef minuhek ibga ro benoize ik to hamboel guknik duwnivo ofa cup uci rir. Pasad dewiuka embu hi udu ka or vulizzu ol peedabej podicpaj diupacu. Kurud ihuvacom naza ada ariporod lotsizo viwesiku lureib jotculpe idizoz ac vu. Wit isiiv ecmof sul ozu akili ufup ocepuhzi gajuj nofjaj muf viawoik uz jijtec. Ve fotiwceb bem zalofo los areli ginreveh gufivvu vugpo sotudroh dar woojvez kefdoz niw. Goharo la mogrig sa div meogamav ki peineaf muhjejrud redloma vod oz kev biddotib bepcimon nol ohidit.",
+    "bio": "Vi biw hadzunuwa bodhizi owlecbic jogbeehu bargefadu iwasur he afa ibounzo nicozimo kawu co olmogfo os. Orjun lupdobev nos romoduvo mojmoki gejebfig lozzohi keocijav ijkaeha wegekrap mep ubivob mutu wudtaha. Bekut jagasu og ac nuwacuaba aliufvo hiujadoz dubeke su nu ekomip wituge fedjepik roafa ojebitiz javadtak pu ele."
+  },
+  "apiKey": "6be9aa991b7af78653e3a15766f97a586e99604b5590264b7c3b7572213dc816",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
